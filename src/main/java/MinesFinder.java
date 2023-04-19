@@ -7,7 +7,6 @@ public class MinesFinder extends JFrame {
     private JLabel nomeDoJogo;
     private JPanel Oeste;
     private JButton jogoFácilButton;
-    private JPanel Centro;
     private JButton jogoMédioButton;
     private JButton jogoDifícilButton;
     private JButton sairButton;
@@ -28,11 +27,11 @@ public class MinesFinder extends JFrame {
             @Override
             public void actionPerformed(ActionEvent e) {
 
-                var janela = new JanelaPrincipal();
+                var janela = new JanelaPrincipal("Jogo Facil",new CampoMinado(9,9, 10));
 
                 janela.setVisible(true);
 
-                new JanelaPrincipal();
+
             }
         });
         jogoMédioButton.addActionListener(new ActionListener() {

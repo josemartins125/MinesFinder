@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23b1e6d4-02be-4cf2-be45-7ff791efd4d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CampoMinado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BotaoCampoMinado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CampoMinado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CampoMinado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JanelaPrincipal.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JanelaPrincipal.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JanelaPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JanelaPrincipal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MinesFinder.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MinesFinder.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MinesFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MinesFinder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +84,9 @@
       <option name="presentableId" value="Default" />
       <updated>1678396580028</updated>
       <workItem from="1678396581723" duration="6280000" />
-      <workItem from="1678553650079" duration="314000" />
+      <workItem from="1678553650079" duration="6652000" />
+      <workItem from="1678880726822" duration="1529000" />
+      <workItem from="1679000694951" duration="4987000" />
     </task>
     <servers />
   </component>
